@@ -13,6 +13,6 @@ Oh, Hi Mark 👋
 
 ![150412976013508192-kopiya-768x576](https://user-images.githubusercontent.com/29896284/155330541-fafdcdb4-d45a-4aa0-9cc3-e993460ef65c.jpg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lililililililililililiiliilil&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Lll-l)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Lll-l)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lililililililililililiiliilil&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
